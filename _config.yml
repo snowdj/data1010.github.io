@@ -24,26 +24,26 @@ description: Probability, Statistics, and Machine Learning
 # List of links in the navigation bar
 navbar-links:
   Home: "index"
-  Class: 
-    - Notebooks and Videos: "class"
-    - Schedule: "schedule"
+  Class: "class"
   Homework:
     - Homework: "homework"
-    - Office Hours: "officehours"
-  Exams: "exams"
+    - Instructions: "hwsubmit"
+    - Project: "project"
   Resources:
     - Data Gymnasia: "https://mathigon.org/data-gymnasia"
-    - Gradescope: "https://www.gradescope.com/courses/56764"
-    - GitHub Classroom: "https://classroom.github.com/classrooms/53490043-data1010-fall2019"
-    - Piazza: "https://piazza.com/class/jzh53hgnml03fu"
-    - JupyterHub: "https://data.jupyter.brown.edu"
-    - CoCalc: "https://cocalc.com"
-    - Tips: "tips"
+    - Itempool: "https://itempool.com"
+    - Gradescope: "https://www.gradescope.com/courses/158688"
+    - Piazza: "https://piazza.com/brown/fall2020/data1010"
+    - Prismia: "https://prismia.chat"
+    - Office Hours: "https://sites.google.com/view/data1010"
+    - JupyterHub: "https://data1010.jupyter.brown.edu"
+    - Setup Instructions: "setup"
+    - Internal site: "https://sites.google.com/view/data1010"
   Reference:
     - Course cheatsheet: "docs/cheatsheets/data1010-cheatsheet.pdf"
     - Julia-Python-R cheatsheet: "docs/cheatsheets/jpr-cheatsheet.pdf"
     - Plots.jl cheatsheet: "docs/cheatsheets/plotsjl-cheatsheet.pdf"
-    - Learning standards: "docs/course-documents/data1010-standards.pdf"
+    - Manipulative gallery: "https://prismia.chat/shared/gallery"
     - Syllabus: "docs/course-documents/data1010-syllabus.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
